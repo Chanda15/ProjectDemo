@@ -249,3 +249,5 @@ $config = array(
 /*
 This changes
 */
+
+/*Commit directly to the master branch.*/
