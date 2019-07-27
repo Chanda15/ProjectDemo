@@ -249,5 +249,13 @@ $config = array(
 /*
 This changes
 */
+<<<<<<< .mine
+
+/*
+This is my code
+*/
+||||||| .r7
+=======
 
 /*Commit directly to the master branch.*/
+>>>>>>> .r8
