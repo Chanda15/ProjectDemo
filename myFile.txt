@@ -1,7 +1,7 @@
 <<<<<<< .mine
 Hello, this is Poonam
 
-This is testing Product
+This is new Product 
 
 ||||||| .r2
 Hello this is Poonam=======
