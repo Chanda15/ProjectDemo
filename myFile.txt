@@ -2,8 +2,7 @@
 Hello, this is Poonam
 
 This is new Product 
-
-||||||| .r2
+<?php echo "Hii,friends";?>
 Hello world
 Hello this is Poonam Nanhe
 Today 27 july 
