@@ -1,9 +1,9 @@
-<<<<<<< .mine
+
 Hello, this is Poonam
 
 This is new Product 
 <?php echo "Hii,friends";?>
 Hello world ,Today Weather Awesome
 Hello this is Poonam Nanhe
-Today 27 july 
->>>>>>> .r3
+Today 29 july 
+
